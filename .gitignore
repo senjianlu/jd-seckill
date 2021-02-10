@@ -1,0 +1,6 @@
+*.log
+/__pycache__
+/log
+/rab_python_packages
+**/__pycache__
+login_screenshot.png
